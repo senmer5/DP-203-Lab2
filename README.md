@@ -88,7 +88,9 @@ This project involves querying, analyzing, and visualizing data using Azure Syna
 ### Outcomes
 This project demonstrates how data querying and visualization processes can be simplified using Azure Synapse Analytics, providing an efficient way to analyze data and derive insights.
 
-##screenshots
+
+## Screenshots
+
 
 ![1](https://github.com/user-attachments/assets/fd119326-6713-4d43-af95-21f0d700dd63)
 
